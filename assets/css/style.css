@@ -1,0 +1,52 @@
+/* Pengaturan Tambahan */
+
+
+/* Pengaturan Al Quran */
+
+@font-face {
+    font-family: 'Uthmani';
+    src: url('https://hasancreative.com/quran/assets/fonts/LPMQ.ttf') format('truetype');
+}
+
+.arabic {
+    font-family: 'Uthmani', serif;
+    font-size: 2rem;
+    font-weight: normal;
+    direction: rtl;
+    padding: 0 5px 10px;
+    margin: 0;
+    text-align: right;
+    line-height: 2.4;
+
+}
+
+.arabic_number {
+    font-size: 1,5rem;
+    font-weight: normal;
+}
+
+.arabic_center {
+    font-family: 'Uthmani', serif;
+    font-size: 2rem;
+    font-weight: normal;
+    text-align: center;
+    padding: 0 5px;
+    margin: 0;
+}
+
+.latin {
+    font-family: serif;
+    font-size: 1rem;
+    font-weight: normal;
+    direction: ltr;
+    padding: 0;
+    margin: 0;
+}
+.baca {
+    font-family: serif;
+    font-size: 1rem;
+    font-weight: normal;
+    direction: ltr;
+    padding: 0;
+    margin: 0;
+}
